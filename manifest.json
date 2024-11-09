@@ -6,7 +6,7 @@
         "src": "/public/images/logo1.jpg",
         "type": "image/png",
         "sizes": "192x192"
-      },]
+      }]
     "start_url": "/server.js",
     "background_color": "#ffffff",
     "display": "browser",
