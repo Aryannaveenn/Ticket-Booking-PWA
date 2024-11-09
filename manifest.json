@@ -3,16 +3,10 @@
     "name": "Tixster",
     "icons": [
       {
-        "src": "/tixster_icon_192.png",
+        "src": "/public/images/logo1.jpg",
         "type": "image/png",
         "sizes": "192x192"
-      },
-      {
-        "src": "/tixster_icon_512.png",
-        "type": "image/png",
-        "sizes": "512x512"
-      }
-    ],
+      },]
     "start_url": "/server.js",
     "background_color": "#ffffff",
     "display": "browser",
